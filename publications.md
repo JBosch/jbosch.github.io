@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-##Journal Articles##
+## Journal Articles ##
 
 ###2015###
 J.Bosch, N.Gracias, P.Ridao and D.Ribas. [**Omnidirectional Underwater Camera Design and Calibration**](http://www.mdpi.com/1424-8220/15/3/6033).
